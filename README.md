@@ -19,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-333?style=for-the-badge&logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=amazon-aws)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
 ![Bun](https://img.shields.io/badge/-Bun-333?style=for-the-badge&logo=bun)
 
